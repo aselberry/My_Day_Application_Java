@@ -5,10 +5,9 @@ However, currently, I am working on integrating the program with Databases. Afte
 
 # Features
 1. Offers so-called 'menu" to arrange the day. MyDay assistant has 3 services:
-
-   a. Schedule (Class schedule + new tasks to be added to the schedule)
-   b. Recommendations (Here, the user can learn about the weather, fashion and computer science news.)
-   c. Timer (It helps the user to identify what to do according to the remaining minutes till the next work/meeting/class. It calculates the given minutes and determines the next steps/actions that could be done before the meeting.)
+- Schedule (Class schedule + new tasks to be added to the schedule)
+- Recommendations (Here, the user can learn about the weather, fashion and computer science news.)
+- Timer (It helps the user to identify what to do according to the remaining minutes till the next work/meeting/class. It calculates the given minutes and determines the next steps/actions that could be done before the meeting.)
   
 3. Iterates over these options until the user indicates that she/he/they does not need MyDay's assistance for the day.
 
