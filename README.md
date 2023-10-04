@@ -17,7 +17,7 @@ However, currently, I am working on integrating the program with Databases. Afte
 - Java Desktop Library
 - Java Scanner Library
 
-# How to run?
+# How to run (Windows)?
 - Download the MyDay.java file
 - Open the Terminal
 - Go to the directory where the MyDay.java is located using *cd <name of the directory>*
