@@ -1,5 +1,5 @@
 # My_Day_Application
-It is a Java Program developed to arrange the day, helping the students/workers create a schedule, plan what to wear according to the weather conditions, be updated on the recent news, and productively engage in daily activities. 
+It is a Java Program developed to arrange a day of the week, helping students/workers create a schedule, plan what to wear according to the weather conditions, be updated on the recent news, and productively engage in daily activities. 
 I built this program to practice my Java programming skills obtained from the online course CodeAcademy. It is currently a user-dependent program as I built this "app" to facilitate my day's schedule and activities. 
 However, currently, I am working on integrating the program with Databases. Afterwards, the program will be user-independent, which means any user can adjust it according to their schedule and priorities. 
 
